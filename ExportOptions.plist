@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://github.com/connarsun/test-app/raw/main/my-app.ipa</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>com.exchange.ibit</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>tttest</string>
-			</dict>
-		</dict>
-	</array>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>
+<![CDATA[ https://x33mw-my.sharepoint.com/personal/mcj_machunjie_cn/_layouts/15/download.aspx?UniqueId=d7e2de5c-b86d-4de2-9fcd-220e2035438c&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAveDMzbXctbXkuc2hhcmVwb2ludC5jb21AZjc0NTZjYzgtMjlkYy00OTc3LTg0ZmEtYjkyMjk0MTQ5MDJiIiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwIiwibmJmIjoiMTcwMjAxMTM1MSIsImV4cCI6IjE3MDIwMTQ5NTEiLCJlbmRwb2ludHVybCI6IlBaZDQvc3REMXJjZDlLWDNVS3ZFc25KckN4WmdJaVk1VkJwcTRxMnVxQms9IiwiZW5kcG9pbnR1cmxMZW5ndGgiOiIxNDUiLCJpc2xvb3BiYWNrIjoiVHJ1ZSIsImNpZCI6Inltd21lT3RWblVpV2NxOEV4NHR3QXc9PSIsInZlciI6Imhhc2hlZHByb29mdG9rZW4iLCJzaXRlaWQiOiJObU15WlRFeVl6WXRNRGxsTlMwMFpEUTBMVGt3TmpjdFpqaGtPR0k1T1RVeU1qSTQiLCJhcHBfZGlzcGxheW5hbWUiOiJhbGlzdCIsImdpdmVuX25hbWUiOiLmmKXmnbAiLCJmYW1pbHlfbmFtZSI6IumprCIsImFwcGlkIjoiN2ViOGZiNGUtZTVkZi00NzY4LWFiMmItMjkzZWMzYzg0NGIzIiwidGlkIjoiZjc0NTZjYzgtMjlkYy00OTc3LTg0ZmEtYjkyMjk0MTQ5MDJiIiwidXBuIjoibWNqQG1hY2h1bmppZS5jbiIsInB1aWQiOiIxMDAzMjAwMjk0QzczMTYxIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDI5NGM3MzE2MUBsaXZlLmNvbSIsInNjcCI6ImFsbGZpbGVzLndyaXRlIiwidHQiOiIyIiwiaXBhZGRyIjoiMjAuMTkwLjE0NC4xNzAifQ.J1nnOhyiMfci0fBUKs3kV9UYtA1pE5JscPCbTQOv-PA&ApiVersion=2.0 ]]>
+</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>ci.nn.1024app_ios_2.3.6</string>
+<key>bundle-version</key>
+<string>4.4</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>1024app_ios_2.3.6</string>
+</dict>
+</dict>
+</array>
 </dict>
 </plist>
